@@ -1,0 +1,22 @@
+# main links
+main:
+  #- title: "Hito"
+  #  url: /_pages/Hito/
+  - title: "Research"
+    url: /_pages/Research/
+  - title: "Publications"
+    url: /_pages/Publications/
+  - title: "Teaching"
+    url: /_pages/Teaching/
+  - title: "Outreach"
+    url: /_pages/Outreach/
+  #- title: "Resources"
+  #  url: /_pages/Resources/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

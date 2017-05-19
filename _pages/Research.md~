@@ -1,0 +1,53 @@
+---
+title: "Research interests"
+layout: splash
+permalink: /_pages//Research/
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  cta_label: "Download"
+  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of Dr. Ugo Bastolla. I moved then to
+  the Microbial Ecology laboratory of Imperial College London leaded by Dr. Thomas Bell where I am Research Associate. I focus on complex biological systems at different scales, from molecules to large ecosystems, and I like to consider experimental data whenever is possible. In the following, I briefly describe some areas of interest, from microscopic to macroscopic systems.'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'The vast number and ubiquity of microbes makes them vital for a variety of processes, from global carbon balance to antibiotic pathogenesis. However, we are still far from having a clear picture of the ecological and evolutionary determinants shaping bacterial communities, which is necessary for the control and further development of any potential application. I am interested in the integration of top-down and bottom-up computational methods, combining statistical analysis from natural samples and genome-based models. My aim is to shed light in the complex relation between bacterial biodiversity and community function.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'I am also interested in the epistemological questions surrounding the study of complex systems. In particular, I am developing a novel approximation based on intuitionistic logic, aiming to provide a sharp definition of the concept of emergence, a question that has attracted much controversy in the literature.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
