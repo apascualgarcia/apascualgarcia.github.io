@@ -35,7 +35,7 @@ feature_row4:
   - image_path: /assets/images/Maths4biology.png
     title: "Maths for Biology"
     alt: "Placeholder Image Center Aligned"
-    excerpt: 'I am responsible of the module "Maths for Biology" in the MSc of Computational Methods of Ecology and Evolution at Imperial College London (Silwood Park).'
+    excerpt: 'I am responsible of the module "Maths for Biology" in the MSc of Computational Methods of Ecology and Evolution at Imperial College London (Silwood Park). I also co-organize the Computer Skillz seminar series.'
     url: "/_pages/Maths4Biology/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

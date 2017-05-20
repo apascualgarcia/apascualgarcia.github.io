@@ -13,19 +13,20 @@ permalink: /_pages/Publications/
 
 * **Pascual-García, A.** and Bastolla U.(*) (2017) Mutualism supports biodiversity when the direct competition is weak _Nature Commun._, 8, 14326 [doi: 10.1038/ncomms14326](https://doi.org/10.1038/ncomms14326) [[pdf]](/assets/articles/Pascual-Garcia_May-MacArthur_NatComm_2017.pdf)
   * Featured in the Spanish Public National Radio, (in the [news](http://www.rtve.es/alacarta/audios/el-laboratorio-de-jal/laboratorio-jal-decide-especies-sobreviven-24-03-17/3955758/) and in an [interview](http://www.rtve.es/alacarta/audios/entre-probetas/entre-probetas-estimulo-matematicas-evolucion-especies-29-03-17/3960928/).
-  * Featured in the Science website [Madrid+](http://www.madrimasd.org/blogs/biocienciatecnologia/2017/03/10/133645#respond).
+  * Featured in the Science website [_Madrid+_](http://www.madrimasd.org/blogs/biocienciatecnologia/2017/03/10/133645#respond).
 
 * Sánchez-Nido, G., Romano, L., Bastolla, U. and **Pascual-García, A.**(*) (2016) Learning protein folding and evolution with a snake puzzle. _PeerJ Computer Science_ 2:e100 [doi: 10.7717/peerj-cs.100](https://doi.org/10.7717/peerj-cs.100) [[pdf]](/assets/articles/Nido_SnakePuzzle_PeerJCompSc_2016.pdf)
-  *  Recommended in [f1000](https://f1000.com/prime/727082679)
+  *  Recommended in [_f1000_](https://f1000.com/prime/727082679)
 
-* Ferrera A., **Pascual-García, A.** and Bastolla, U.(*) (2016) Effective competition determines the global stability of model ecosystems _Theoretical Ecology_, [doi:10.1007/s12080-016-0322-z](https://10.1007/s12080-016-0322-z) [[pdf]](/assets/articles/Ferrera_GlobalStabilityEffectiveCompetition_TheorEcol_2016.pdf)
+* Ferrera A., **Pascual-García, A.** and Bastolla, U.(*) (2016) Effective competition determines the global stability of model ecosystems _Theoretical Ecology_, [doi:10.1007/s12080-016-0322-z](https://doi.org/10.1007/s12080-016-0322-z) [[pdf]](/assets/articles/Ferrera_GlobalStabilityEffectiveCompetition_TheorEcol_2016.pdf)
 
 * **Pascual-García, A.**, Tamames, J. and Bastolla, U.(*) (2014). Bacteria dialog with Santa Rosalia: Are aggregations of cosmopolitan bacteria mainly explained by habitat filtering or by ecological interactions? _BMC microbiology_, 14(1), 1-16. [[pdf]](/assets/articles/Pascual-Garcia_Dialog-StaRosalia_BMCmicrob_2014.pdf)
 
 
 * Vallés, Y., Artacho, A., **Pascual-García, A.**, Ferrús, M. L., Gosalbes, M. J., Abellán, J. J. and Francino, M. P.(*) (2014). Microbial succession in the gut: directional trends of taxonomic and functional change in a birth cohort of Spanish infants. _PLoS Genetics_, 10(6), e1004406. [[pdf]](/assets/articles/Valles_Microbial-Succession-Gut_PloSgenetics_2014.pdf)
   * Featured in the Spanish national newspaper [_El Confidencial_](http://www.elconfidencial.com/ultima-hora-en-vivo/2014-08-21/demuestran-que-las-bacterias-intestinales-del-bebe-difieren-de-las-del-adulto_342705/)
-  * Featured in [_Yahoo News_](https://es.noticias.yahoo.com/microflora-intestinal-beb\%C3\%A9s-a\%C3\%B1o-distinta-adultos-113135141.html)
+   [comment]: <>(* Featured in [_Yahoo News_](https://es.noticias.yahoo.com/microflora-intestinal-beb\%C3\%A9s-a\%C3\%B1o-distinta-adultos-113135141.html))
+  * Featured in [_Europapress_](http://www.europapress.es/comunitat-valenciana/noticia-investigadores-revelan-microflora-intestinal-bebes-ano-vida-distinta-adultos-20140821130409.html)
   * Featured in the Spanish local newspaper [_Las Provincias_](http://www.lasprovincias.es/agencias/valencia/201408/21/demuestran-bacterias-intestinales-bebe-170164.html)
   * Featured in the Health website [_Con Salud_](http://www.consalud.es/seenews.php?id=12657)
   * Featured in the Health website [_Acta Sanitaria_](http://www.actasanitaria.com/investigadores-de-fisabio-estudian-el-desarrollo-de-bacterias-intestinales-en-bebes/)
@@ -41,8 +42,9 @@ permalink: /_pages/Publications/
   * Featured in the Spanish Research Council Science website [_SINC Agency_](http://www.agenciasinc.es/Noticias/La-arquitectura-de-la-naturaleza-minimiza-la-competencia-entre-especies-y-fomenta-la-biodiversidad)
 
 * **Pascual-García, A.**, Abia, D., Ortiz, A. R., and Bastolla, U.(*) (2009). Cross-over between discrete and continuous protein structure space: insights into automatic classification and networks of protein structures. _PLoS Comput. Biol._, 5(3), e1000331. [[pdf]](/assets/articles/Pascual-Garcia_Prot-Struct-Cross-Over_PLoS_2009.pdf)
-  * Recommended in [f1000](http://f1000.com/prime/1165026)
-  * Featured in the scientific website [_Ciencia y Locura_](http://cienciaylocura.net/2012/10/28/es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas/)
+  * Recommended in [_f1000_](http://f1000.com/prime/1165026)
+  * Featured in the scientific website [_Ciencia y Locura_](https://articuloscientificos.wordpress.com/2012/10/28/es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas/)
+  * Featured in the Spanish Research Council Science website [_SINC Agency_](http://www.agenciasinc.es/Noticias/Es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas)
 
 ## Book chapters
 

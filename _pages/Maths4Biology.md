@@ -23,7 +23,10 @@ permalink: /_pages/Maths4Biology/
 * Algebra [[pdf]](/assets/docs/Exercises_algebra.pdf)
 
 
+## Computer Skillz seminars:
+> Co-organized with [Thomas Guillerme](http://tguillerme.github.io/)
 
+* Link to the [blog](https://silwoodcomputerskillz.github.io/)
 
 
 
