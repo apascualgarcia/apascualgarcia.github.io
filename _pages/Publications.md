@@ -25,7 +25,7 @@ permalink: /_pages/Publications/
 
 * Vallés, Y., Artacho, A., **Pascual-García, A.**, Ferrús, M. L., Gosalbes, M. J., Abellán, J. J. and Francino, M. P.(*) (2014). Microbial succession in the gut: directional trends of taxonomic and functional change in a birth cohort of Spanish infants. _PLoS Genetics_, 10(6), e1004406. [[pdf]](/assets/articles/Valles_Microbial-Succession-Gut_PloSgenetics_2014.pdf)
   * Featured in the Spanish national newspaper [_El Confidencial_](http://www.elconfidencial.com/ultima-hora-en-vivo/2014-08-21/demuestran-que-las-bacterias-intestinales-del-bebe-difieren-de-las-del-adulto_342705/)
-   [//]: # (* Featured in [_Yahoo News_](https://es.noticias.yahoo.com/microflora-intestinal-beb\%C3\%A9s-a\%C3\%B1o-distinta-adultos-113135141.html))
+ [](* Featured in [_Yahoo News_](https://es.noticias.yahoo.com/microflora-intestinal-beb\%C3\%A9s-a\%C3\%B1o-distinta-adultos-113135141.html))
   * Featured in [_Europapress_](http://www.europapress.es/comunitat-valenciana/noticia-investigadores-revelan-microflora-intestinal-bebes-ano-vida-distinta-adultos-20140821130409.html)
   * Featured in the Spanish local newspaper [_Las Provincias_](http://www.lasprovincias.es/agencias/valencia/201408/21/demuestran-bacterias-intestinales-bebe-170164.html)
   * Featured in the Health website [_Con Salud_](http://www.consalud.es/seenews.php?id=12657)
