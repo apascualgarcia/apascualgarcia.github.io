@@ -19,7 +19,7 @@ feature_row2:
   - image_path: /assets/images/LibroBioinf.jpg
     title: "Bioinformática con Ñ"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'I coordinated with Álvaro Sebastián the development of a book of Bioinformatics in Spanish, more than 500 pages written by several scientists and made freely accessible [here](https://www.scribd.com/doc/231270078/Bioinformatica-con-N). In the following link, you can download the chapters I contributed (see "Book Chapters").'
+    excerpt: 'I coordinated with Álvaro Sebastián the development of a book of Bioinformatics in Spanish, more than 500 pages written by several scientists and made freely accessible [here](https://zenodo.org/communities/bioinfconn/about/). In the following link, you can download the chapters I contributed (see "Book Chapters").'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

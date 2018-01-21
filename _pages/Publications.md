@@ -8,8 +8,10 @@ permalink: /_pages/Publications/
 
 
 
-## Peer-reviewed articles
+## Articles
 > (*) stands for Corresponding Author
+
+* Amigo, I., & **Pascual‐García, A.**(*) (2017). Conflicts of interest in scientific publishing. _EMBO reports_, e201745008. [doi: 10.0.59.148/embr.201745008](http://10.0.59.148/embr.201745008)
 
 * **Pascual-García, A.** and Bastolla U.(*) (2017) Mutualism supports biodiversity when the direct competition is weak _Nature Commun._, 8, 14326 [doi: 10.1038/ncomms14326](https://doi.org/10.1038/ncomms14326) [[pdf]](/assets/articles/Pascual-Garcia_May-MacArthur_NatComm_2017.pdf)
   * Featured in the Spanish Public National Radio, (in the [news](http://www.rtve.es/alacarta/audios/el-laboratorio-de-jal/laboratorio-jal-decide-especies-sobreviven-24-03-17/3955758/) and in an [interview](http://www.rtve.es/alacarta/audios/entre-probetas/entre-probetas-estimulo-matematicas-evolucion-especies-29-03-17/3960928/).
@@ -53,15 +55,15 @@ permalink: /_pages/Publications/
 
 * **Pascual-García, A.**(*) Modelos simplificados de plegamiento de estructura de proteínas (2014) [[pdf]](/assets/chapters/Pascual-Garcia_Plegamiento_LibBioinf.pdf)
   > in: Bioinformática con Ñ. Coordinators: Sebastián, A. and **Pascual-García, A.**
-  > Independent edition. Free [access](https://www.scribd.com/doc/231270078/Bioinformatica-con-N) and [download](https://www.scribd.com/collections/5816847/Bioinformatica-con-N. ISBN:978-84-617-1976-X).
+  > Independent edition. Free access in [Zenodo](http://doi.org/10.5281/zenodo.1066348). 
 
 * **Pascual-García, A.**(*) Alineamiento de estructura de proteínas (2014) [[pdf]](/assets/chapters/Pascual-Garcia_ProtStrAlign_LibBioinf.pdf)
   > in: Bioinformática con Ñ. Coordinators: Sebastián, A. and **Pascual-García, A.**
-  > Independent edition. Free [access](https://www.scribd.com/doc/231270078/Bioinformatica-con-N) and [download](https://www.scribd.com/collections/5816847/Bioinformatica-con-N. ISBN:978-84-617-1976-X).
+  > Independent edition. Free access in [Zenodo](http://doi.org/10.5281/zenodo.1066346).
 
 * **Pascual-García, A.**(*) Evolución de estructura de proteínas (2014) [[pdf]](/assets/chapters/Pascual-Garcia_ProtStrEvol_LibBioinf.pdf)
   > in: Bioinformática con Ñ. Coordinators: Sebastián, A. and **Pascual-García, A.**
-  > Independent edition. Free [access](https://www.scribd.com/doc/231270078/Bioinformatica-con-N) and [download](https://www.scribd.com/collections/5816847/Bioinformatica-con-N. ISBN:978-84-617-1976-X).
+  > Independent edition. Free access in [Zenodo](http://doi.org/10.5281/zenodo.1066350).
 
 * **Pascual-García, A.**(*) Explorando el rol de la Competición, el Mutualismo y la Arquitectura en Redes Ecológicas: Qué podemos decir sobre la Biodiversidad? (2011) [[pdf]](/assets/chapters/Pascual-Garcia_Mutualismo_SESBE_final.pdf)
   > in: Evolución y Adaptación: 150 años después del origen de las especies.
