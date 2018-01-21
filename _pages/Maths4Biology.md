@@ -12,15 +12,15 @@ permalink: /_pages/Maths4Biology/
 > solutions provided on request
 
 
-* Functions [[pdf]](/assets/docs/Exercises_functions.pdf)
+* Functions [[pdf]](/assets/docs/Exercises_functions_17-18.pdf)
  
-* Derivatives [[pdf]](/assets/docs/Exercises_derivatives.pdf)
+* Derivatives [[pdf]](/assets/docs/Exercises_derivatives_17-18.pdf)
 
-* Integrals [[pdf]](/assets/docs/Exercises_integrals.pdf)
+* Integrals [[pdf]](/assets/docs/Exercises_integrals_17-18.pdf)
 
-* Differential Equations (first order) [[pdf]](/assets/docs/Exercises_EDOs.pdf)
+* Differential Equations (first order) [[pdf]](/assets/docs/Exercises_EDOs_17-18.pdf)
 
-* Algebra [[pdf]](/assets/docs/Exercises_algebra.pdf)
+* Algebra [[pdf]](/assets/docs/Exercises_algebra_17-18.pdf)
 
 
 ## Computer Skillz seminars:
