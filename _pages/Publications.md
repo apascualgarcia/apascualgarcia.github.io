@@ -11,7 +11,7 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* Amigo, I., & **Pascual‐García, A.**(*) (2017). Conflicts of interest in scientific publishing. _EMBO reports_, e201745008. [doi: 10.0.59.148/embr.201745008](http://10.0.59.148/embr.201745008)
+* Amigo, I., & **Pascual‐García, A.**(*) (2017). Conflicts of interest in scientific publishing. _EMBO reports_, e201745008. [doi: 10.0.59.148/embr.201745008](http://10.0.59.148/embr.201745008) [[pdf]](/assets/articles/Amigo_ConflictInterestSciencePublish_EMBOrep_2017.pdf)
 
 * **Pascual-García, A.** and Bastolla U.(*) (2017) Mutualism supports biodiversity when the direct competition is weak _Nature Commun._, 8, 14326 [doi: 10.1038/ncomms14326](https://doi.org/10.1038/ncomms14326) [[pdf]](/assets/articles/Pascual-Garcia_May-MacArthur_NatComm_2017.pdf)
   * Featured in the Spanish Public National Radio, (in the [news](http://www.rtve.es/alacarta/audios/el-laboratorio-de-jal/laboratorio-jal-decide-especies-sobreviven-24-03-17/3955758/) and in an [interview](http://www.rtve.es/alacarta/audios/entre-probetas/entre-probetas-estimulo-matematicas-evolucion-especies-29-03-17/3960928/).
