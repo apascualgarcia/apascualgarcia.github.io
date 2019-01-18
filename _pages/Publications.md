@@ -11,6 +11,9 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
+* **Pascual‐García, A.**(*) (2018). A constructive approach to the epistemological problem of emergence in complex systems.  _PloS one_, e201745008. [doi: 0.1371/journal.pone.0206489](https://doi.org/10.1371/journal.pone.0206489)
+ [[pdf]](/assets/articles/Pascual-Garcia_EmergenceComplexSystems_PloSone_2018.pdf)
+
 * Amigo, I., & **Pascual‐García, A.**(*) (2017). Conflicts of interest in scientific publishing. _EMBO reports_, e201745008. [doi: 10.0.59.148/embr.201745008](http://10.0.59.148/embr.201745008) [[pdf]](/assets/articles/Amigo_ConflictInterestSciencePublish_EMBOrep_2017.pdf)
 
 * **Pascual-García, A.** and Bastolla U.(*) (2017) Mutualism supports biodiversity when the direct competition is weak _Nature Commun._, 8, 14326 [doi: 10.1038/ncomms14326](https://doi.org/10.1038/ncomms14326) [[pdf]](/assets/articles/Pascual-Garcia_May-MacArthur_NatComm_2017.pdf)
