@@ -11,6 +11,10 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
+* **Pascual-García, A.**, Arenas, M., & Bastolla, U. (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022)
+
+* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ (In press)
+
 * **Pascual‐García, A.**(*) (2018). A constructive approach to the epistemological problem of emergence in complex systems.  _PloS one_, e201745008. [doi: 0.1371/journal.pone.0206489](https://doi.org/10.1371/journal.pone.0206489)
  [[pdf]](/assets/articles/Pascual-Garcia_EmergenceComplexSystems_PloSone_2018.pdf)
 
@@ -50,6 +54,12 @@ permalink: /_pages/Publications/
   * Recommended in [_f1000_](http://f1000.com/prime/1165026)
   * Featured in the scientific website [_Ciencia y Locura_](https://articuloscientificos.wordpress.com/2012/10/28/es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas/)
   * Featured in the Spanish Research Council Science website [_SINC Agency_](http://www.agenciasinc.es/Noticias/Es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas)
+  
+## Books
+
+* Bioinformática con Ñ. Volume I. Coordinators and editors: Sebastián, A. and **Pascual-García, A.** (2014) [ISBN:978-84-617-1976-](https://zenodo.org/communities/bioinfconn/about/)
+
+* Bioinformática con Ñ. Volume II. Coordinators and editors: Sebastián, A. and **Pascual-García, A.** (2014) [ISBN:978-84-617-1976-](https://zenodo.org/communities/bioinfconn/about/)
 
 ## Book chapters
 
