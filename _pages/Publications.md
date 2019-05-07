@@ -55,16 +55,18 @@ permalink: /_pages/Publications/
   * Featured in the scientific website [_Ciencia y Locura_](https://articuloscientificos.wordpress.com/2012/10/28/es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas/)
   * Featured in the Spanish Research Council Science website [_SINC Agency_](http://www.agenciasinc.es/Noticias/Es-posible-clasificar-de-forma-objetiva-las-estructuras-de-las-proteinas)
   
-## Books
+## Books and Ph.D. Thesis
+
+* **Pascual-García, A** Emergent patterns in protein, microbial and mutualistic systems (2015)
+  > [Ph.D Thesis](http://hdl.handle.net/10486/668019). Universidad Autónoma de Madrid. Summa Cum Laude. Awarded with the University _Outstanding Mention_  
 
 * Bioinformática con Ñ. Volume I. Coordinators and editors: Sebastián, A. and **Pascual-García, A.** (2014) [ISBN:978-84-617-1976-](https://zenodo.org/communities/bioinfconn/about/)
 
 * Bioinformática con Ñ. Volume II. Coordinators and editors: Sebastián, A. and **Pascual-García, A.** (2014) [ISBN:978-84-617-1976-](https://zenodo.org/communities/bioinfconn/about/)
 
+
 ## Book chapters
 
-* **Pascual-García, A** Emergent patterns in protein, microbial and mutualistic systems (2015)
-  > [Ph.D Thesis](http://hdl.handle.net/10486/668019). Universidad Autónoma de Madrid. Awarded with the University _Extraordinary Prize_  
 
 * **Pascual-García, A.**(*) Modelos simplificados de plegamiento de estructura de proteínas (2014) [[pdf]](/assets/chapters/Pascual-Garcia_Plegamiento_LibBioinf.pdf)
   > in: Bioinformática con Ñ. Coordinators: Sebastián, A. and **Pascual-García, A.**
