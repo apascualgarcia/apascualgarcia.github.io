@@ -11,6 +11,8 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
+* **Pascual-García, A.**(*) & Bell, T. (2019). Community-level signatures of ecological succession in natural bacterial communities. _Under Review_, [biorxiv](https://doi.org/10.1101/636233)
+
 * **Pascual-García, A.**, Arenas, M., & Bastolla, U. (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022)
 
 * Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ (In press)
