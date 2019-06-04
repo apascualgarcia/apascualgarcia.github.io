@@ -11,11 +11,13 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* **Pascual-García, A.**(*) & Bell, T. (2019). Community-level signatures of ecological succession in natural bacterial communities. _Under Review_, [biorxiv](https://doi.org/10.1101/636233)
+* **Pascual-García, A.**(*) & Bell, T. (2019). Community-level signatures of ecological succession in natural bacterial communities. _bioRxiv_, [doi.org/10.1101/636233](https://www.biorxiv.org/content/10.1101/636233v1)
 
-* **Pascual-García, A.**, Arenas, M., & Bastolla, U. (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022)
+* **Pascual-García, A.**(*) & Bell, T. (2019). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _bioRxiv_, [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v1)
 
-* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ (In press)
+* **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022)
+
+* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ 29(9), 1528-1535. [doi.org/10.1016/j.cub.2019.03.047](https://doi.org/10.1016/j.cub.2019.03.047)
 
 * **Pascual‐García, A.**(*) (2018). A constructive approach to the epistemological problem of emergence in complex systems.  _PloS one_, e201745008. [doi: 0.1371/journal.pone.0206489](https://doi.org/10.1371/journal.pone.0206489)
  [[pdf]](/assets/articles/Pascual-Garcia_EmergenceComplexSystems_PloSone_2018.pdf)
@@ -92,7 +94,7 @@ permalink: /_pages/Publications/
 
 * **Pascual-García, A.**(*) A topological approach to the problem of emergence in complex systems. (2016) _Under review._ [arXiv:1610.02448](https://arxiv.org/abs/1610.02448)
 
-* **Pascual-García, A.** and Bastolla, U.(*) (2016) Effective competition determines the structural stability of model ecosystems _Under review_
+ [* **Pascual-García, A.** and Bastolla, U.(*) (2016) Effective competition determines the structural stability of model ecosystems _Under review_]: #
 
 * **Pascual-García, A.**, Ferrera A., and Bastolla, U. (*)  Does mutualism hinders biodiversity? (2014) (comment to James et al. Nature 2012, 487, 227--230.) [arXiv:1409.1683](https://arxiv.org/abs/1409.1683)
 
