@@ -11,9 +11,12 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* **Pascual-García, A.**(*) & Bell, T. (2019). Community-level signatures of ecological succession in natural bacterial communities. _bioRxiv_, [doi.org/10.1101/636233](https://www.biorxiv.org/content/10.1101/636233v1)
+* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _bioRxiv_, [doi.org/10.1101/636233](https://www.biorxiv.org/content/10.1101/636233v2)
 
-* **Pascual-García, A.**(*) & Bell, T. (2019). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _bioRxiv_, [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v1)
+* **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _bioRxiv_, [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v3)
+
+* **Pascual-García, A.**(*), Bonhoeffer, S. & Bell, T.(*) (2020). Microbial metabolically cohesive consortia and ecosystem functioning
+. _Philos. Trans. Royal Soc. B_ (In press), [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v1)
 
 * **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022)
 
