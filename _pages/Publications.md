@@ -11,7 +11,9 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Under rev. Nature Commun._, [doi.org/10.1101/636233](https://www.biorxiv.org/content/10.1101/636233v2)
+* Jones, M(*)., Rivett, D. **Pascual-García, A.** & Bell, T. (2020) Productive bacterial communities exclude invaders.  [doi.org/10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1)
+
+* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._ (In press), [doi.org/10.1101/636233](https://www.biorxiv.org/content/10.1101/636233v2)
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._ (In press), [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v3)
 
