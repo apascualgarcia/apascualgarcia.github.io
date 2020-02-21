@@ -18,11 +18,11 @@ permalink: /_pages/Publications/
 * **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._ (In press), [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v3)
 
 * **Pascual-García, A.**, Bonhoeffer, S. & Bell, T.(*) (2020). Microbial metabolically cohesive consortia and ecosystem functioning
-. _Philos. Trans. Royal Soc. B_ (In press), [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v1)
+. _Philos. Trans. Royal Soc. B_ (In press), [doi.org/10.1101/656504](https://www.biorxiv.org/content/10.1101/656504v3)
 
-* **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022)
+* **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022) [[pdf]](/assets/articles/Pascual-Garcia_MolecularClockProteinStructure_SystBiology_2019.pdf)
 
-* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ 29(9), 1528-1535. [doi.org/10.1016/j.cub.2019.03.047](https://doi.org/10.1016/j.cub.2019.03.047)
+* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ 29(9), 1528-1535. [doi.org/10.1016/j.cub.2019.03.047](https://doi.org/10.1016/j.cub.2019.03.047)[[pdf]](/assets/articles/Enke_ModularAssembly_CurrentBiology_2019.pdf)
 
 * **Pascual‐García, A.**(*) (2018). A constructive approach to the epistemological problem of emergence in complex systems.  _PloS one_, e201745008. [doi: 0.1371/journal.pone.0206489](https://doi.org/10.1371/journal.pone.0206489)
  [[pdf]](/assets/articles/Pascual-Garcia_EmergenceComplexSystems_PloSone_2018.pdf)
