@@ -11,8 +11,9 @@ header:
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [M.C. Escher Company-the Netherlands.](www.mcescher.com)"
   #excerpt: "It looks strange and it looks strange and it looks very strange; and then suddenly it doesn't look strange at all and you can't understand what made it look strange in the first place. Gertrude Stein."
-intro: 
-  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.'
+
+#intro: 
+#  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.'
 #feature_row:
 #  - image_path: assets/images/Escher.png
 feature_row2:
@@ -26,7 +27,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Mutualism.png
     title: "Theoretical Ecology"
-    alt: "Placeholder Image Center Aligned"
+    alt: "Placeholder Image Right Aligned"
     excerpt: 'The relationship between biodiversity and stability in complex ecosystems has been the subject of intense theoretical research. I am interested in deciphering which is the role that the different species interactions have on this relationship, with particular emphasis on the role of mutualistic interactions. Mutualism has been historically considered detrimental for biodiversity, overemphasizing the role of competitive interactions. We are challenging this view with a fresh perspective based on the importance of structural stability.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
@@ -47,8 +48,10 @@ feature_row5:
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+#{% include feature_row id="intro" type="center" %}
 ---
-{% include feature_row id="intro" type="justified" %}
+
+I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.
 
 {% include feature_row %}
 
