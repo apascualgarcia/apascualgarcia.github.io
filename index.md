@@ -13,8 +13,9 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Alberto Pascual-García personal webpage"
 intro: 
-  - excerpt: 'When we find a landmark (in Spanish "hito") we do not see only a bunch of stones. We know that it is extremely unlikely to find them in that position unless someone stacked them on purpose. This is a nice metaphor explaining my motivation for biology, because it contains the most intriguing questions surrounding the origin and evolution of life: Why life seems to run away from high entropy states? Why it spontaneously creates and stores information? How can we model the  emergent patterns arising from biological processes? In this website you will find information about my research and some more... Welcome!'
-
+  - excerpt: 'When we find a landmark (in Spanish, “hito”), we do not only see a bunch of stones. We know that it is extremely unlikely to find them in such position, and a meaning immediately emerges. This is a nice metaphor explaining my motivation for Biology, because it contains the most intriguing questions surrounding the origin and evolution of life: Why  does life seem to run away from high entropy states? Why does it spontaneously create and store information? How can we model the emergent patterns arising from biological processes? On this website, you can find information about my research and some more… Welcome!'
+ 
+ 
 # feature_row:
 #  - image_path: assets/images/Scheme_Modeling.png
 #    alt: "placeholder image 1"
@@ -39,7 +40,7 @@ intro:
 ---
 
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="justified" %}
 
 {% include feature_row %}
 

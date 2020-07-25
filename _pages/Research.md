@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [M.C. Escher Company-the Netherlands.](www.mcescher.com)"
   #excerpt: "It looks strange and it looks strange and it looks very strange; and then suddenly it doesn't look strange at all and you can't understand what made it look strange in the first place. Gertrude Stein."
 intro: 
-  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently based in the Theoretical Biology group at ETH-Zürich, group leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at different scales, from molecules to large ecosystems, considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.'
+  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.'
 #feature_row:
 #  - image_path: assets/images/Escher.png
 feature_row2:
@@ -48,7 +48,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="justified" %}
 
 {% include feature_row %}
 
