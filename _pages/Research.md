@@ -44,7 +44,7 @@ feature_row5:
   - image_path: /assets/images/Scheme_Modeling.png
     title: "Complex systems"
     alt: "Placeholder Image Center Aligned"
-    excerpt: 'I am also interested in broad questions related to complex biological systems, such as emergent behaviours, community-level functioning or group selection. I address these questions both the from philosophical and the methodological sides. I developed a novel framework to investigate epistemological questions, and also contributed computational tools to work with complex networks, an important representation of complex systems widely used in modern reseearch, and present in most of my work.'
+    excerpt: 'I am also interested in broad questions related to complex biological systems, such as emergent behaviours, community-level functioning or group selection. I address these questions both from the philosophical and the methodological sides. I developed a novel framework to investigate epistemological questions, and also contributed computational tools to work with complex networks, an important representation of complex systems widely used in modern reseearch, and present in most of my work.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
