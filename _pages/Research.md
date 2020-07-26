@@ -51,7 +51,7 @@ feature_row5:
 #{% include feature_row id="intro" type="center" %}
 ---
 
-I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.
+I am a physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/). I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.
 
 {% include feature_row %}
 
