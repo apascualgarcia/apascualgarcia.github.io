@@ -20,7 +20,7 @@ feature_row2:
   - image_path: /assets/images/Scheme_NullModels.png
     title: "Microbial Ecology and Evolution"
     alt: "Placeholder Image Right Aligned"
-    excerpt: 'The vast number and ubiquity of microbes makes them vital for a variety of processes, from global carbon balance to antibiotic pathogenesis. However, we are still far from getting a clear picture of the ecological and evolutionary determinants shaping bacterial communities, which is necessary for the control and further development of any potential application. I am interested in the integration of top-down and bottom-up computational methods, combining statistical analysis from natural samples and genome-based models. My aim is to shed light in the complex relation between bacterial biodiversity and community function.'
+    excerpt: 'The vast number and ubiquity of microbes makes them vital for a variety of processes, from global carbon balance to antibiotic pathogenesis. However, we are still far from getting a clear picture of the ecological and evolutionary determinants shaping bacterial communities, which is necessary for the control and further development of any potential application. I am interested in the integration of top-down and bottom-up computational methods, combining statistical analysis from natural samples and genome-based models. My aim is to shed light on the complex relation between bacterial biodiversity and community function.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -28,7 +28,7 @@ feature_row3:
   - image_path: /assets/images/Mutualism.png
     title: "Theoretical Ecology"
     alt: "Placeholder Image Right Aligned"
-    excerpt: 'The relationship between biodiversity and stability in complex ecosystems has been the subject of intense theoretical research. I am interested in deciphering which is the role that the different species interactions have on this relationship, with particular emphasis on the role of mutualistic interactions. Mutualism has been historically considered detrimental for biodiversity, overemphasizing the role of competitive interactions. We are challenging this view with a fresh perspective based on the importance of structural stability.'
+    excerpt: 'The relationship between biodiversity and stability in complex ecosystems has undergone a long debate involving intense theoretical research. I am interested in deciphering which is the role that the different species interactions have on this relationship, with particular emphasis on mutualistic interactions. Mutualism has been historically considered detrimental for biodiversity, overemphasizing the role of competition. We are challenging this view with a fresh perspective based on the importance of structural stability.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -36,15 +36,15 @@ feature_row4:
   - image_path: /assets/images/Proteins.png
     title: "Molecular Evolution"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Protein structures play a fundamental role to understand the complex relationship between protein function and evolution as they allow us to incorporate physical principles into evolutionary analysis. My work aims to understand which effects have the main evolutionary events in protein structures, through the analysis of the topological properties of the protein structure space and the relationship between protein structures and protein sequences divergences, among other questions.'
+    excerpt: 'Protein structures play a fundamental role to understand the complex relationship between protein evoltuion and protein function. They allow us to incorporate physical principles into evolutionary analysis. My work aims to understand the effects that the different evolutionary events have in the protein structure, through the analysis of the topological properties of the protein structure space and the relationship between protein structures and protein sequences divergences, among other questions.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row5:
   - image_path: /assets/images/Scheme_Modeling.png
-    title: "Epistemology of complex systems"
+    title: "Complex systems"
     alt: "Placeholder Image Center Aligned"
-    excerpt: 'I am also interested in the epistemological questions surrounding the study of complex systems. In particular, I am developing a novel approximation based on intuitionistic logic, aiming to provide a sharp definition of the concept of emergence, a question that has attracted much controversy in the literature.'
+    excerpt: 'I am also interested in broad questions related to complex biological systems, such as emergent behaviours, community-level functioning or group selection. I address these questions both the from philosophical and the methodological sides. I developed a novel framework to investigate epistemological questions, and also contributed computational tools to work with complex networks, an important representation of complex systems widely used in modern reseearch, and present in most of my work.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
