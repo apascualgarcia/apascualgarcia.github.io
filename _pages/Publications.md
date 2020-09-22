@@ -11,7 +11,13 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* Ramoneda, J., Hawes, I., **Pascual-Garcìa, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*).  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  (2020) _Under review_ [doi: 10.1101/2020.07.13.200626](https://doi.org/10.1101/2020.07.13.200626)
+* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2020). Empowering the crowd: Feasible strategies to minimize the spread of COVID-19 in high-density informal settlements. _Under review_ [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990)
+
+* **Pascual-García, A.**(*), (2020) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Under review_
+
+* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2020) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation _Under review_ 
+
+* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2020)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _Under review_ [doi: 10.1101/2020.07.13.200626](https://doi.org/10.1101/2020.07.13.200626)
 
 * Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2020) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1)
 
