@@ -22,7 +22,7 @@ permalink: /_pages/Publications/
 
 * **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ (in press)
 
-* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation _ Environ Microbiol_ (in press) [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431)
+* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation _Environ Microbiol_ (in press) [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431)
 
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://www.biorxiv.org/content/10.1101/636233v2https://doi.org/10.1038/s41467-020-16011-3), [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
