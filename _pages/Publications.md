@@ -13,16 +13,17 @@ permalink: /_pages/Publications/
 
 
 
-* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1)
-
-* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _Under review_ [doi: 10.1101/2020.07.13.200626](https://doi.org/10.1101/2020.07.13.200626)
-
-
 * **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies to minimize the spread of COVID-19 in high-density informal settlements. _Under review_ [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990)
 
-* **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ (in press)
+* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1)
 
-* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation _Environ Microbiol_ (in press) [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431)
+* **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y)
+
+
+* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044)
+
+
+* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431)
 
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://www.biorxiv.org/content/10.1101/636233v2https://doi.org/10.1038/s41467-020-16011-3), [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
