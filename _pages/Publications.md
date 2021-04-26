@@ -17,7 +17,7 @@ permalink: /_pages/Publications/
 
 * Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1)
 
-* **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y)
+* **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y) [pdf](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
 
 
 * Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044)
@@ -28,7 +28,9 @@ permalink: /_pages/Publications/
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://www.biorxiv.org/content/10.1101/636233v2https://doi.org/10.1038/s41467-020-16011-3), [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
 
-* **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377) [[pdf]](/assets/articles/Functional_Linkage_APG-Oct-2019_MetEcolEvol_V4.pdf)
+* **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377) [[pdf]](/assets/articles/Pascual-Garcia_functionInk_MethEcolEvol_2020.pdf)
+  * Shortlisted for the [Robert May Prize 2020 ](https://methodsblog.com/2021/03/24/robert-may-prize-2020-the-shortlist/).
+  * For the philosophical background see this [blog post](https://methodsblog.com/2021/04/22/the-quest-for-a-sharp-definition-of-function-in-biological-networks/).
 
 * **Pascual-García, A.**, Bonhoeffer, S. & Bell, T.(*) (2020). Microbial metabolically cohesive consortia and ecosystem functioning
 . _Philos. Trans. Royal Soc. B_, 375: 20190245, [doi: 10.1098/rstb.2019.0245](https://doi.org/10.1098/rstb.2019.0245) [[pdf]](/assets/articles/Pascual-Garcia_MeCoCoAndFunction_ProcRoySocB_2020.pdf)
