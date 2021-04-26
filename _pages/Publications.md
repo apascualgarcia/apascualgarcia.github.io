@@ -13,42 +13,42 @@ permalink: /_pages/Publications/
 
 
 
-* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies to minimize the spread of COVID-19 in high-density informal settlements. _Under review_ [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990)
+* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies to minimize the spread of COVID-19 in high-density informal settlements. _Under review_ [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990).
 
-* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1)
+* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
 
-* **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y) [pdf](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
-
-
-* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044)
+* **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y). [[pdf]](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
 
 
-* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431)
+* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044).
 
 
-* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://www.biorxiv.org/content/10.1101/636233v2https://doi.org/10.1038/s41467-020-16011-3), [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
+* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation, _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431).
 
-* **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377) [[pdf]](/assets/articles/Pascual-Garcia_functionInk_MethEcolEvol_2020.pdf)
-  * Shortlisted for the [Robert May Prize 2020 ](https://methodsblog.com/2021/03/24/robert-may-prize-2020-the-shortlist/).
+
+* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://www.biorxiv.org/content/10.1101/636233v2https://doi.org/10.1038/s41467-020-16011-3). [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
+
+* **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377). [[pdf]](/assets/articles/Pascual-Garcia_functionInk_MethEcolEvol_2020.pdf)
+  * Shortlisted for the [Robert May Prize 2020.](https://methodsblog.com/2021/03/24/robert-may-prize-2020-the-shortlist/)
   * For the philosophical background see this [blog post](https://methodsblog.com/2021/04/22/the-quest-for-a-sharp-definition-of-function-in-biological-networks/).
 
 * **Pascual-García, A.**, Bonhoeffer, S. & Bell, T.(*) (2020). Microbial metabolically cohesive consortia and ecosystem functioning
 . _Philos. Trans. Royal Soc. B_, 375: 20190245, [doi: 10.1098/rstb.2019.0245](https://doi.org/10.1098/rstb.2019.0245) [[pdf]](/assets/articles/Pascual-Garcia_MeCoCoAndFunction_ProcRoySocB_2020.pdf)
 
-* **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022) [[pdf]](/assets/articles/Pascual-Garcia_MolecularClockProteinStructure_SystBiology_2019.pdf)
+* **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022). [[pdf]](/assets/articles/Pascual-Garcia_MolecularClockProteinStructure_SystBiology_2019.pdf)
 
-* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ 29(9), 1528-1535. [doi.org/10.1016/j.cub.2019.03.047](https://doi.org/10.1016/j.cub.2019.03.047) [[pdf]](/assets/articles/Enke_ModularAssembly_CurrentBiology_2019.pdf)
+* Enke, T. N., Datta, M. S., Schwartzman, J., Cermak, N., Schmitz, D., Barrere, J., **Pascual-García, A.** & Cordero, O. X.(*) (2019). Modular Assembly of Polysaccharide-Degrading Marine Microbial Communities. _Current Biology._ 29(9), 1528-1535. [doi.org/10.1016/j.cub.2019.03.047](https://doi.org/10.1016/j.cub.2019.03.047). [[pdf]](/assets/articles/Enke_ModularAssembly_CurrentBiology_2019.pdf)
 
-* **Pascual‐García, A.**(*) (2018). A constructive approach to the epistemological problem of emergence in complex systems.  _PloS one_, e201745008. [doi: 0.1371/journal.pone.0206489](https://doi.org/10.1371/journal.pone.0206489)
+* **Pascual‐García, A.**(*) (2018). A constructive approach to the epistemological problem of emergence in complex systems.  _PloS one_, e201745008. [doi: 0.1371/journal.pone.0206489](https://doi.org/10.1371/journal.pone.0206489).
  [[pdf]](/assets/articles/Pascual-Garcia_EmergenceComplexSystems_PloSone_2018.pdf)
 
-* Amigo, I., & **Pascual‐García, A.**(*) (2017). Conflicts of interest in scientific publishing. _EMBO reports_, e201745008. [doi: 10.0.59.148/embr.201745008](http://10.0.59.148/embr.201745008) [[pdf]](/assets/articles/Amigo_ConflictInterestSciencePublish_EMBOrep_2017.pdf)
+* Amigo, I., & **Pascual‐García, A.**(*) (2017). Conflicts of interest in scientific publishing. _EMBO reports_, e201745008. [doi: 10.0.59.148/embr.201745008](http://10.0.59.148/embr.201745008). [[pdf]](/assets/articles/Amigo_ConflictInterestSciencePublish_EMBOrep_2017.pdf)
 
-* **Pascual-García, A.** and Bastolla U.(*) (2017) Mutualism supports biodiversity when the direct competition is weak _Nature Commun._, 8, 14326 [doi: 10.1038/ncomms14326](https://doi.org/10.1038/ncomms14326) [[pdf]](/assets/articles/Pascual-Garcia_May-MacArthur_NatComm_2017.pdf)
-  * Featured in the Spanish Public National Radio, (in the [news](http://www.rtve.es/alacarta/audios/el-laboratorio-de-jal/laboratorio-jal-decide-especies-sobreviven-24-03-17/3955758/) and in an [interview](http://www.rtve.es/alacarta/audios/entre-probetas/entre-probetas-estimulo-matematicas-evolucion-especies-29-03-17/3960928/).
+* **Pascual-García, A.** and Bastolla U.(*) (2017) Mutualism supports biodiversity when the direct competition is weak _Nature Commun._, 8, 14326 [doi: 10.1038/ncomms14326](https://doi.org/10.1038/ncomms14326). [[pdf]](/assets/articles/Pascual-Garcia_May-MacArthur_NatComm_2017.pdf)
+  * Featured in the Spanish Public National Radio, (in the [news](http://www.rtve.es/alacarta/audios/el-laboratorio-de-jal/laboratorio-jal-decide-especies-sobreviven-24-03-17/3955758/) and in an [interview](http://www.rtve.es/alacarta/audios/entre-probetas/entre-probetas-estimulo-matematicas-evolucion-especies-29-03-17/3960928/)).
   * Featured in the Science website [_Madrid+_](http://www.madrimasd.org/blogs/biocienciatecnologia/2017/03/10/133645#respond).
 
-* Sánchez-Nido, G., Romano, L., Bastolla, U. and **Pascual-García, A.**(*) (2016) Learning protein folding and evolution with a snake puzzle. _PeerJ Computer Science_ 2:e100 [doi: 10.7717/peerj-cs.100](https://doi.org/10.7717/peerj-cs.100) [[pdf]](/assets/articles/Nido_SnakePuzzle_PeerJCompSc_2016.pdf)
+* Sánchez-Nido, G., Romano, L., Bastolla, U. and **Pascual-García, A.**(*) (2016) Learning protein folding and evolution with a snake puzzle. _PeerJ Computer Science_ 2:e100 [doi: 10.7717/peerj-cs.100](https://doi.org/10.7717/peerj-cs.100). [[pdf]](/assets/articles/Nido_SnakePuzzle_PeerJCompSc_2016.pdf)
   *  Recommended in [_f1000_](https://f1000.com/prime/727082679)
 
 * Ferrera A., **Pascual-García, A.** and Bastolla, U.(*) (2016) Effective competition determines the global stability of model ecosystems _Theoretical Ecology_, [doi:10.1007/s12080-016-0322-z](https://doi.org/10.1007/s12080-016-0322-z) [[pdf]](/assets/articles/Ferrera_GlobalStabilityEffectiveCompetition_TheorEcol_2016.pdf)
@@ -110,7 +110,6 @@ permalink: /_pages/Publications/
 
 ## Proceedings and other publications
 
-* Pérez-Escudero, A., **Pascual-García, A.**, Polavieja, G., Durán-Trío, L., Arganda-Carreras, S. Esta plataforma ayuda a la comunidad científica y médica a luchar contra la COVID-19 (2020) _The Conversation_ (In press)
 
 * **Pascual-García, A.** and Bastolla, U. The architecture of mutualistic networks does influence structural stability. (2017) _Self-Journals of Science_ [**582**](http://sjscience.org/article?id=582) 
 
@@ -122,7 +121,11 @@ permalink: /_pages/Publications/
 
 * **Pascual-García, A.**(*) On the Epistemology of Complex Networks Theory (2012), _Proceedings of the 1st Iberoamerican Congress on Phylosophy of Life Sciences_. ISBN:978-84-370-9040-5
 
+## Popular science
 
+* Pérez-Escudero, A., **Pascual-García, A.**, Polavieja, G., Durán-Trío, L., Arganda-Carreras, S. Esta plataforma ayuda a la comunidad científica y médica a luchar contra la COVID-19 (2020) [_The Conversation_](https://theconversation.com/crowdfight-covid-19-comunidad-cientifica-y-medica-contra-la-pandemia-140821)
+
+* **Pascual-García, A.** El árbol de la ciencia. (2015) [_La Vanguardia_](https://blogs-lectores.lavanguardia.com/colaboraciones/el-arbol-de-la-ciencia-94977)
 
 
 
