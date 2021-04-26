@@ -20,7 +20,8 @@ permalink: /_pages/Publications/
 * **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y). [[pdf]](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
 
 
-* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Habitat connectivity and environmental controls on the structure of phototrophic microbial mats and bacterioplankton communities in an Antarctic freshwater system  _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044).
+* Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Importance of environmental factors over habitat
+connectivity in shaping bacterial communities in microbial mats and bacterioplankton in an Antarctic freshwater system _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044).
 
 
 * Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation, _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431).
