@@ -13,21 +13,21 @@ permalink: /_pages/Publications/
 
 
 
-* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies to minimize the spread of COVID-19 in high-density informal settlements. _Under review_ [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990).
+* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies for epidemic management in high-density informal settlements. The case of COVID-19 in Northwest Syria. _BMJ Global Health_ (In press) [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990).
 
-* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Productive bacterial communities exclude invaders. _Under review_ [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
+* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Relationships between community composition, productivity and invasion resistance in semi-natural bacterial microcosms. _eLife_ (In press) [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
 
 * **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y). [[pdf]](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
 
 
 * Ramoneda, J., Hawes, I., **Pascual-García, A.**, Mackey, T.J., Sumner, D.Y., Jungblut, AD(*). (2021)  Importance of environmental factors over habitat
-connectivity in shaping bacterial communities in microbial mats and bacterioplankton in an Antarctic freshwater system _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044).
+connectivity in shaping bacterial communities in microbial mats and bacterioplankton in an Antarctic freshwater system. _FEMS Microbiology Ecology_, fiab044. [doi: 10.1093/femsec/fiab044](https://doi.org/10.1093/femsec/fiab044).
 
 
-* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Dietary and microbial manipulation of intestinal glycerol/diol dehydratases enhances potential for acrolein and propionate formation, _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/0.1111/1462-2920.15431).
+* Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Impact of manipulation of glycerol/diol dehydratase activity on intestinal microbiota ecology and metabolism, _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/10.1111/1462-2920.15431).
 
 
-* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://www.biorxiv.org/content/10.1101/636233v2https://doi.org/10.1038/s41467-020-16011-3). [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
+* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://doi.org/10.1038/s41467-020-16011-3). [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377). [[pdf]](/assets/articles/Pascual-Garcia_functionInk_MethEcolEvol_2020.pdf)
   * Shortlisted for the [Robert May Prize 2020.](https://methodsblog.com/2021/03/24/robert-may-prize-2020-the-shortlist/)
@@ -112,7 +112,7 @@ connectivity in shaping bacterial communities in microbial mats and bacterioplan
 ## Proceedings and other publications
 
 
-* **Pascual-García, A.** and Bastolla, U. The architecture of mutualistic networks does influence structural stability. (2017) _Self-Journals of Science_ [**582**](http://sjscience.org/article?id=582) 
+* **Pascual-García, A.** and Bastolla, U. The architecture of mutualistic networks does influence structural stability. (2017) _Self-Journals of Science_ [**SJS:585**](https://www.sjscience.org/article?id=585) 
 
  [* **Pascual-García, A.**(*) A topological approach to the problem of emergence in complex systems. (2016)]: #
 
