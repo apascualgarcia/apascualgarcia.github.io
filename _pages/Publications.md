@@ -12,10 +12,11 @@ permalink: /_pages/Publications/
 > (*) stands for Corresponding Author
 
 
+* **Pascual-García, A.**(*), Schwartzman, J., Enke, TN., Iffland-Stettner, A., Cordero, OX., Bonhoeffer, S., (2021)  Turnover in life-strategies recapitulates marine microbial succession colonizing model particles _Under review_ bioRxiv [doi: 10.1101/2021.11.05.466518](https://doi.org/10.1101/2021.11.05.466518)
 
-* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies for epidemic management in high-density informal settlements. The case of COVID-19 in Northwest Syria. _BMJ Global Health_ (In press) [doi: 10.1101/2020.08.26.20181990](https://doi.org/10.1101/2020.08.26.20181990).
+* **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies for epidemic management in high-density informal settlements. The case of COVID-19 in Northwest Syria. _BMJ Global Health_ 6:e004656 [doi: 10.1136/bmjgh-2020-004656](http://dx.doi.org/10.1136/bmjgh-2020-004656).
 
-* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Relationships between community composition, productivity and invasion resistance in semi-natural bacterial microcosms. _eLife_ (In press) [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
+* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Relationships between community composition, productivity and invasion resistance in semi-natural bacterial microcosms. _eLife_ 10:e71811 [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
 
 * **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y). [[pdf]](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
 
