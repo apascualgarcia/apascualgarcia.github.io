@@ -27,7 +27,7 @@ feature_row3:
   - image_path: /assets/images/Snake.png
     title: "Structural Bioinformatics"
     alt: "Placeholder Image Center Aligned"
-    excerpt: 'I summarized with the help of my collaborators the lectures that me and Ugo Bastolla provided at the Universidad Autónoma de Madrid (MSc. on Biophysics) in an article in which we use a wooden snake puzzle to teach complex questions on protein structure folding and evolution.'
+    excerpt: 'I developed a didactic unit summarizing the lectures that Ugo Bastolla and I prepared at the Universidad Autónoma de Madrid (MSc. on Biophysics). In the article, we presented a wooden snake puzzle to teach complex questions related to protein structure folding and evolution.'
     url: "/assets/articles/Nido_SnakePuzzle_PeerJCompSc_2016.pdf"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -35,7 +35,7 @@ feature_row4:
   - image_path: /assets/images/Maths4biology.png
     title: "Maths for Biology"
     alt: "Placeholder Image Center Aligned"
-    excerpt: 'I am responsible of the module "Maths for Biology" in the MSc of Computational Methods of Ecology and Evolution at Imperial College London (Silwood Park). I also co-organize the Computer Skillz seminar series.'
+    excerpt: 'I was responsible of the module "Maths for Biology" in the MSc of Computational Methods of Ecology and Evolution at Imperial College London (Silwood Park). I also co-organized the Computer Skillz seminar series.'
     url: "/_pages/Maths4Biology/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
