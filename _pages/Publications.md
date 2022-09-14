@@ -11,10 +11,14 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
+* Puente-Sánchez, F.(*),  **Pascual-García, A.**, Bastolla, U., Pedrós-Alió, C., Tamames, J. (2022) Cross-biome microbial networks reveal functional redundancy and suggest genome reduction through functional complementarity _Under review_ bioRxiv [doi: 10.1101/2022.09.11.507163](https://doi.org/10.1101/2022.09.11.507163)
 
-* **Pascual-García, A.**(*), Schwartzman, J., Enke, TN., Iffland-Stettner, A., Cordero, OX., Bonhoeffer, S., (2021)  Turnover in life-strategies recapitulates marine microbial succession colonizing model particles _Under review_ bioRxiv [doi: 10.1101/2021.11.05.466518](https://doi.org/10.1101/2021.11.05.466518)
+
+* **Pascual-García, A.**(*), Schwartzman, J., Enke, TN., Iffland-Stettner, A., Cordero, OX., Bonhoeffer, S., (2022)  Turnover in life-strategies recapitulates marine microbial succession colonizing model particles _Frontiers in Microbiology_ [doi: 0.3389/fmicb.2022.812116](https://doi.org/10.3389/fmicb.2022.812116)
 
 * **Pascual-García, A.**(*), Klein, J., Villers, J., Campillo-Funollet, E., & Sarkis, C. (2021). Empowering the crowd: Feasible strategies for epidemic management in high-density informal settlements. The case of COVID-19 in Northwest Syria. _BMJ Global Health_ 6:e004656 [doi: 10.1136/bmjgh-2020-004656](http://dx.doi.org/10.1136/bmjgh-2020-004656).
+  * Visit the [website of the project](https://crowdfightcovid19.github.io/req-550-Syria/).
+  * See our [Policy report](https://crowdfightcovid19.github.io/req-550-Syria/PolicyReport/).
 
 * Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Relationships between community composition, productivity and invasion resistance in semi-natural bacterial microcosms. _eLife_ 10:e71811 [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
 
@@ -28,13 +32,13 @@ connectivity in shaping bacterial communities in microbial mats and bacterioplan
 * Ramirez Garcia, A., Zhang, J., Constancias, F., Greppi, A., Wortmann, E., Wandres, M., Hurley, K., **Pascual-García, A.**, Sturla, S., Lacroix, C., Schwab, C(*). (2021) Impact of manipulation of glycerol/diol dehydratase activity on intestinal microbiota ecology and metabolism, _Environ Microbiol_ 23: 1765-1779. [doi: 10.1111/1462-2920.15431](https://doi.org/10.1111/1462-2920.15431).
 
 
-* **Pascual-García, A.**(*) & Bell, T. (2020). Community-level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://doi.org/10.1038/s41467-020-16011-3). [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
+* **Pascual-García, A.**(*) & Bell, T. (2020). Community-Level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://doi.org/10.1038/s41467-020-16011-3). [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377). [[pdf]](/assets/articles/Pascual-Garcia_functionInk_MethEcolEvol_2020.pdf)
   * Shortlisted for the [Robert May Prize 2020.](https://methodsblog.com/2021/03/24/robert-may-prize-2020-the-shortlist/)
   * For the philosophical background see this [blog post](https://methodsblog.com/2021/04/22/the-quest-for-a-sharp-definition-of-function-in-biological-networks/).
 
-* **Pascual-García, A.**, Bonhoeffer, S. & Bell, T.(*) (2020). Microbial metabolically cohesive consortia and ecosystem functioning
+* **Pascual-García, A.**, Bonhoeffer, S. & Bell, T.(*) (2020). Metabolically cohesive microbial consortia and ecosystem functioning
 . _Philos. Trans. Royal Soc. B_, 375: 20190245, [doi: 10.1098/rstb.2019.0245](https://doi.org/10.1098/rstb.2019.0245) [[pdf]](/assets/articles/Pascual-Garcia_MeCoCoAndFunction_ProcRoySocB_2020.pdf)
 
 * **Pascual-García, A.**, Arenas, M., & Bastolla, U.(*) (2019). The molecular clock in the evolution of protein structures. _Systematic Biology_, syz022, [doi: 10.1093/sysbio/syz022](https://doi.org/10.1093/sysbio/syz022). [[pdf]](/assets/articles/Pascual-Garcia_MolecularClockProteinStructure_SystBiology_2019.pdf)
