@@ -35,6 +35,7 @@ connectivity in shaping bacterial communities in microbial mats and bacterioplan
 * **Pascual-García, A.**(*) & Bell, T. (2020). Community-Level signatures of ecological succession in natural bacterial communities. _Nature Commun._  11(1), 1-11, [doi: 10.1038/s41467-020-16011-3](https://doi.org/10.1038/s41467-020-16011-3). [[pdf]](/assets/articles/Pascual-Garcia_CommunityLevelSignaturesEcologicalSuccession_NatureComm_2020.pdf)
 
 * **Pascual-García, A.**(*) & Bell, T. (2020). functionInk: An efficient method to detect functional groups in multidimensional networks reveals the hidden structure of ecological communities. _Meth. Ecol. Evol._, 11(7), 804-817 [doi: 10.1111/2041-210X.13377](https://doi.org/10.1111/2041-210X.13377). [[pdf]](/assets/articles/Pascual-Garcia_functionInk_MethEcolEvol_2020.pdf)
+  * Visit the [website of the project](https://apascualgarcia.github.io/functionInk/)
   * Shortlisted for the [Robert May Prize 2020.](https://methodsblog.com/2021/03/24/robert-may-prize-2020-the-shortlist/)
   * For the philosophical background see this [blog post](https://methodsblog.com/2021/04/22/the-quest-for-a-sharp-definition-of-function-in-biological-networks/).
 
@@ -110,7 +111,7 @@ connectivity in shaping bacterial communities in microbial mats and bacterioplan
   > in: Bioinformática con Ñ. Coordinators: Sebastián, A. and **Pascual-García, A.**
   > Independent edition. Free access in [Zenodo](http://doi.org/10.5281/zenodo.1066350).
 
-* **Pascual-García, A.**(*) Explorando el rol de la Competición, el Mutualismo y la Arquitectura en Redes Ecológicas: Qué podemos decir sobre la Biodiversidad? (2011) [[pdf]](/assets/chapters/Pascual-Garcia_Mutualismo_SESBE_final.pdf)
+* **Pascual-García, A.**(*) Explorando el rol de la Competición, el Mutualismo y la Arquitectura en Redes Ecológicas: Qué podemos decir sobre la Biodiversidad? (2011) [ISBN: 978-84-92910-06-9](https://www.worldcat.org/isbn/9788492910069) [[pdf]](/assets/chapters/Pascual-Garcia_Mutualismo_SESBE_final.pdf)
   > in: Evolución y Adaptación: 150 años después del origen de las especies.
   > Coordinators: Hernán Dopazo and Arcadi Navarro. Editor: Spanish Society of Evolutionary Biology
 
