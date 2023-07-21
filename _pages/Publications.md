@@ -11,7 +11,9 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* Puente-Sánchez, F.(*),  **Pascual-García, A.**, Bastolla, U., Pedrós-Alió, C., Tamames, J. (2022) Cross-biome microbial networks reveal functional redundancy and suggest genome reduction through functional complementarity _Under review_ bioRxiv [doi: 10.1101/2022.09.11.507163](https://doi.org/10.1101/2022.09.11.507163)
+* **Pascual-García, A.**, Rivett, D., Jones, M. L., & Bell, T.(*) (2023). Replaying the tape of ecology to domesticate wild microbiomes. _Under review_ bioRxiv, 2023-07. [doi: 10.1101/2023.07.07.548163](https://doi.org/10.1101/2023.07.07.548163)
+
+* Puente-Sánchez, F.(*),  **Pascual-García, A.**, Bastolla, U., Pedrós-Alió, C., Tamames, J. (2023) Cross-biome microbial networks reveal functional redundancy and suggest genome reduction through functional complementarity _Under review_ bioRxiv [doi: 10.1101/2022.09.11.507163](https://doi.org/10.1101/2022.09.11.507163)
 
 
 * **Pascual-García, A.**(*), Schwartzman, J., Enke, TN., Iffland-Stettner, A., Cordero, OX., Bonhoeffer, S., (2022)  Turnover in life-strategies recapitulates marine microbial succession colonizing model particles _Frontiers in Microbiology_ [doi: 0.3389/fmicb.2022.812116](https://doi.org/10.3389/fmicb.2022.812116)
