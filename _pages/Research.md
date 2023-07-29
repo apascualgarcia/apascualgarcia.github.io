@@ -4,14 +4,15 @@ layout: splash
 permalink: /_pages/Research/
 date: 2016-03-23T11:48:41-04:00
 header:
-  #overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/Escher.png
+  #image: /assets/images/Portada_Hito.jpg
+  overlay_image: /assets/images/Portada_Hito.jpg
+  #overlay_color: "#005"
+  overlay_filter: rgba(255, 0, 0, 0)
+  #overlay_image: /assets/images/unsplash-image-1.jpg
   #cta_label: "Download"
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [M.C. Escher Company-the Netherlands.](www.mcescher.com)"
-  #excerpt: "It looks strange and it looks strange and it looks very strange; and then suddenly it doesn't look strange at all and you can't understand what made it look strange in the first place. Gertrude Stein."
-
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#excerpt: "Alberto Pascual-García personal webpage"
 #intro: 
 #  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, led by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.'
 #feature_row:
@@ -50,8 +51,7 @@ feature_row5:
     btn_class: "btn--inverse"
 #{% include feature_row id="intro" type="center" %}
 ---
-
-I am a physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, leaded by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/). I am currently a member of the Theoretical Biology group at ETH-Zürich, leaded by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.
+When we find a landmark, we don't just see a pile of stones. We know that it is extremely unlikely to find them in that position, and immediately a meaning emerges. This is a nice metaphor that explains our motivation for biology, because it contains the most intriguing questions about the origin and evolution of life: Why does life seem to flee from high entropy states, why does it spontaneously create and store information, and how can we model the emergent patterns that arise from biological processes? 
 
 {% include feature_row %}
 
