@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   #overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/handShake.jpg
+  overlay_image: /assets/images/handShake_red.jpg
   #cta_label: "Download"
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [Aidan Jones, CC ShareAlike 2.0](https://www.flickr.com/photos/aidan_jones/3575000735)"
@@ -17,7 +17,7 @@ header:
 #feature_row:
 #  - image_path: assets/images/Escher.png
 feature_row2:
-  - image_path: /assets/images/Alberto_SilwoodRed.png
+  - image_path: /assets/images/Alberto_SilwoodRed2.png
     title: "Alberto Pascual-García, PI"
     alt: "Placeholder Image Right Aligned"
     excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Centre for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). After my  PhD, I spent two years as a postdoctoral researcher the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), to then mov to the Theoretical Biology group at ETH-Zürich, headed by  [Prof. Sebastian Bonhoeffer](https://tb.ethz.ch/). I was a Fellow at the [Wissenschaftskolleg zu Berlin](https://www.wiko-berlin.de/) in 2021-2022, and I moved back to Spain in 2023 to lead the Integrative Biology laboratory at the [National Centre for Biotechnology](https://www.cnb.csic.es/index.php/en/).'
