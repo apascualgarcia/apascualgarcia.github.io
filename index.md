@@ -4,7 +4,7 @@ layout: splash
 #permalink: /_pages/Hito/
 header:
   #overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: rgba(255, 0, 0, 0)
   overlay_image: /assets/images/Escher.png
   #cta_label: "Download"
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
