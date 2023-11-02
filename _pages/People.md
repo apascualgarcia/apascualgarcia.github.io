@@ -16,11 +16,11 @@ header:
 #  - excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Center for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). Then I joined the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), and where I am still External Lecturer in the MSc of Computational Methods in Ecology and Evolution. I am currently a member of the Theoretical Biology group at ETH-Zürich, led by  [Prof. Sebastian Bonhoeffer](www.tb.ethz.ch). I focus on complex biological systems at the different scales, from molecules to large ecosystems, with special emphasis on microbial ecology, and considering experimental data whenever is possible. In the following, I briefly describe some areas of interest.'
 #feature_row:
 #  - image_path: assets/images/Escher.png
-feature_row2:
-  - image_path: /assets/images/Alberto_SilwoodRed2.png
-    title: "Alberto Pascual-García, PI"
-    alt: "Placeholder Image Right Aligned"
-    excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Centre for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). After my  PhD, I spent two years as a postdoctoral researcher the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), to then mov to the Theoretical Biology group at ETH-Zürich, headed by  [Prof. Sebastian Bonhoeffer](https://tb.ethz.ch/). I was a Fellow at the [Wissenschaftskolleg zu Berlin](https://www.wiko-berlin.de/) in 2021-2022, and I moved back to Spain in 2023 to lead the Integrative Biology laboratory at the [National Centre for Biotechnology](https://www.cnb.csic.es/index.php/en/).'
+#feature_row2:
+#  - image_path: /assets/images/Alberto_SilwoodRed2.png
+#    title: "Alberto Pascual-García, PI"
+#    alt: "Placeholder Image Right Aligned"
+#    excerpt: 'I am physicist with (real) interest in biology. I did my PhD in the Centre for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). After my  PhD, I spent two years as a postdoctoral researcher the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), to then mov to the Theoretical Biology group at ETH-Zürich, headed by  [Prof. Sebastian Bonhoeffer](https://tb.ethz.ch/). I was a Fellow at the [Wissenschaftskolleg zu Berlin](https://www.wiko-berlin.de/) in 2021-2022, and I moved back to Spain in 2023 to lead the Integrative Biology laboratory at the [National Centre for Biotechnology](https://www.cnb.csic.es/index.php/en/).'
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -36,12 +36,10 @@ feature_row2:
 #{% include feature_row id="intro" type="center" %}
 ---
 
+The group has just landed in Madrid, and **we are hiring!** Please, keep an eye on our [join page](/_pages/Join) to see what opportunities are currently available.
+
 We al­ways wel­come ap­plic­a­tions from skilled and mo­tiv­ated people for PhD and PostDoc po­s­i­tions. Open positions will be announced [here](/_pages/Join). In the event that there is no vacancy for you at this time, we will always be open to discuss the possibility of supporting you to get your own funding through national (e.g. Juan de la Cierva or FPU fellowships) or international calls (e.g. Marie Curie, EMBO). If you are interested in joining our group, please send us your CV with a brief motivation letter describing your research interests and why you want to join our group. Since our group is multidisciplinary, describe briefly where your skills are, and where you want to improve.
 
-{% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-#{% include feature_row id="feature_row3" type="right" %}
 
 
