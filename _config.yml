@@ -78,7 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "In(Bio)"
-  avatar           : "/assets/images/Foto-guapis-Pascu2.JPG"
+#  avatar           : "/assets/images/Foto-guapis-Pascu2.JPG"
+  avatar           : "/assets/images/Lab_branding_compact.png"
   bio              : "Lab Webpage"
   location         : "CNB Madrid"
   email            : "alberto.pascual.garcia@gmail.com"
