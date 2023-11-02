@@ -10,6 +10,8 @@ main:
     url: /_pages/Teaching/
   - title: "Outreach"
     url: /_pages/Outreach/
+  - title: "People"
+    url: /_pages/People/
   #- title: "Resources"
   #  url: /_pages/Resources/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
