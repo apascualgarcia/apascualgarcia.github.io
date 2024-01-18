@@ -40,7 +40,7 @@ intro:
 ---
 Science's understanding of biological phenomena in this century has expanded dramatically thanks to the development of new technologies such as massive sequencing and nanometric techniques. This vast knowledge makes it imperative that we invest efforts in **integrating diverse information in the search for solid principles** on which biology is based. 
 
-In our lab, we work with this motivation in mind (but please note [this disclaimer]()) by trying to study **biological phenomena across scales**, epistemological approaches (e.g. top-down vs. bottom-up), and theoretical, computational and experimental methods. This integrative approach can be naturally developed in our favourite system, microbial communities, where molecular, cellular and population phenomena converge. Our long-term goal is to project our knowledge towards the development of **biotechnological applications** that address **challenges of our time**. Welcome!
+In our lab, we work with this motivation in mind (but please note [this disclaimer](_pages/Disclaimer.md)) by trying to study **biological phenomena across scales**, epistemological approaches (e.g. top-down vs. bottom-up), and theoretical, computational and experimental methods. This integrative approach can be naturally developed in our favourite system, microbial communities, where molecular, cellular and population phenomena converge. Our long-term goal is to project our knowledge towards the development of **biotechnological applications** that address **challenges of our time**. Welcome!
 
 
 
