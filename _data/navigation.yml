@@ -4,14 +4,14 @@ main:
   #  url: /_pages/Hito/
   - title: "Research"
     url: /_pages/Research/
+  - title: "People"
+    url: /_pages/People/
   - title: "Publications"
     url: /_pages/Publications/
   - title: "Teaching"
     url: /_pages/Teaching/
   - title: "Outreach"
     url: /_pages/Outreach/
-  - title: "People"
-    url: /_pages/People/
   #- title: "Resources"
   #  url: /_pages/Resources/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
