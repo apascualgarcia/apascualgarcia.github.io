@@ -26,7 +26,7 @@ permalink: /_pages/Publications/
   * Visit the [website of the project](https://crowdfightcovid19.github.io/req-550-Syria/).
   * See our [Policy report](https://crowdfightcovid19.github.io/req-550-Syria/PolicyReport/).
 
-* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Relationships between community composition, productivity and invasion resistance in semi-natural bacterial microcosms. _eLife_ 10:e71811 [doi: 10.1101/2019.12.18.881102](https://www.biorxiv.org/content/10.1101/2019.12.18.881102v1).
+* Jones, M.(*), Rivett, D. **Pascual-García, A.** & Bell, T. (2021) Relationships between community composition, productivity and invasion resistance in semi-natural bacterial microcosms. _eLife_ 10:e71811 [doi.org/10.7554/eLife.71811](https://elifesciences.org/articles/71811).
 
 * **Pascual-García, A.**(*), (2021) Phylogenetic Core Groups: A promising concept in search of a consistent methodological framework. _Microbiome_ 9, 73. [doi: 10.1186/s40168-021-01023-y](https://doi.org/10.1186/s40168-021-01023-y). [[pdf]](/assets/articles/Pascual-Garcia_PhylogeneticCoreGroups_Microbiome_2021.pdf)
 
