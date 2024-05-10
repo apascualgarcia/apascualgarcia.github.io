@@ -25,7 +25,7 @@ feature_row3:
   - image_path: /assets/images/People/Alberto_SilwoodRed2.png
     title: "Alberto Pascual-García, PI"
     alt: "Placeholder Image Right Aligned"
-    excerpt: "I am physicist with (real) interest in biology. I did my PhD in the Centre for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). After my  PhD, I spent two years as a postdoctoral researcher the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), to then move to the Theoretical Biology group at ETH-Zürich, headed by  [Prof. Sebastian Bonhoeffer](https://tb.ethz.ch/). I was a Fellow at the [Wissenschaftskolleg zu Berlin](https://www.wiko-berlin.de/) in 2021-2022, and I moved back to Spain in 2023 to lead the Integrative Biology laboratory at the [National Centre for Biotechnology](https://www.cnb.csic.es/index.php/en/)."
+    excerpt: "I am physicist with (real) interest in biology. I did my PhD in the Centre for Molecular Biology Severo Ochoa in Madrid (CSIC-UAM) under the supervision of [Dr. Ugo Bastolla](https://ub.cbm.uam.es/). After my  PhD, I spent two years as a postdoctoral researcher the Microbial Ecology laboratory of Imperial College London, led by [Prof. Thomas Bell](https://bellmicrobelab.wordpress.com/), to then move to the Theoretical Biology group at ETH-Zürich, headed by  [Prof. Sebastian Bonhoeffer](https://tb.ethz.ch/). I was a Fellow at the [Wissenschaftskolleg zu Berlin](https://www.wiko-berlin.de/) in 2021-2022, and I moved back to Spain in 2023 to lead the Integrative Biology laboratory at the [National Centre for Biotechnology](https://www.cnb.csic.es/index.php/en/). Among my hobbies, rugby has taken up the most of my time and health, followed by dancing night and morning, the mountains and changing diapers."
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -45,7 +45,12 @@ feature_row5:
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
-
+feature_row6:
+  - image_path: /assets/images/People/LauraPrieto.jpg
+    title: "Laura Prieto, BSc. Student"
+    alt: "Placeholder Image Right Aligned"
+    excerpt: "Throughout my life, I've always had a deep love for science and understanding how things work. As I near the completion of my biotechnology degree, my passion for this field has only grown stronger. Currently, my primary focus is on developing more accurate methods to predict bacterial stress. I'm enthusiastic about the potential advancements that await in this area and i hope i can make a meaningful contribution to the field.
+Beyond my academic pursuits, I also harbor a keen interest in cinema, video games, and anime."
 ---
 
 {% include feature_row %}
