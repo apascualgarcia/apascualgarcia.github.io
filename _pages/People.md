@@ -48,9 +48,8 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/People/LauraPrieto.jpg
     title: "Laura Prieto, BSc. Student"
-    alt: "Placeholder Image Right Aligned"
-    excerpt: "Throughout my life, I've always had a deep love for science and understanding how things work. As I near the completion of my biotechnology degree, my passion for this field has only grown stronger. Currently, my primary focus is on developing more accurate methods to predict bacterial stress. I'm enthusiastic about the potential advancements that await in this area and i hope i can make a meaningful contribution to the field.
-Beyond my academic pursuits, I also harbor a keen interest in cinema, video games, and anime."
+    alt: "Placeholder Image Left Aligned"
+    excerpt: "Throughout my life, I've always had a deep love for science and understanding how things work. As I near the completion of my biotechnology degree, my passion for this field has only grown stronger. Currently, my primary focus is on developing more accurate methods to predict bacterial stress. I'm enthusiastic about the potential advancements that await in this area and i hope i can make a meaningful contribution to the field. Beyond my academic pursuits, I also harbor a keen interest in cinema, video games, and anime."
 ---
 
 {% include feature_row %}
@@ -65,6 +64,7 @@ Beyond my academic pursuits, I also harbor a keen interest in cinema, video game
 
 {% include feature_row id="feature_row5" type="left" %}
 
+{% include feature_row id="feature_row6" type="right" %}
 
 ## Alumni
 
