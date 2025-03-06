@@ -20,7 +20,7 @@ header:
 ## Join the lab
 
 
-We currently offer a funded rotation for a MSc. student within the [JAE intro program](https://jaeintro.csic.es/convocatoria-jae-intro-2024/). Deadline **May 20h, 2024**.
+We currently offer up to 4 funded rotations for BSc. or MSc. students within the [JAE intro and JAE ICU programs](https://sede.csic.gob.es/en/node/16). The call is expected to be open in **March-April 2025**.
 
 We al­ways wel­come ap­plic­a­tions from skilled and mo­tiv­ated people for PhD and PostDoc po­s­i­tions. Open positions will be announced [here](/_pages/Join). In the event that there is no vacancy for you at this time, we will always be open to discuss the possibility of supporting you to get your own funding through national (e.g. Juan de la Cierva or FPU fellowships) or international calls (e.g. Marie Curie, EMBO). If you are interested in joining our group, please send us your CV with a brief motivation letter describing your research interests and why you want to join our group. Since our group is multidisciplinary, describe briefly where your skills are, and where you want to improve.
 

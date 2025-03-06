@@ -5,17 +5,22 @@ permalink: /_pages/Publications/
 
 ---
 
-
+Unraveling the diversity dynamics and network stability of alkaline phosphomonoesterase producing bacteria in modulating maize yield
 
 
 ## Articles
 > (*) stands for Corresponding Author
 
+* **Pascual-García, A.**, Rivett, D., Jones, M. L., & Bell, T.(*) (2025). Replicating community dynamics reveals how initial composition shapes the functional outcomes of bacterial communities. _Nature Communications_ (in press). [doi: 10.1101/2023.07.07.548163](https://doi.org/10.1101/2023.07.07.548163)
+
 * Buchenel, L., Bonhoeffer, S., **Pascual-García, A. (*)** (2024) A network optimisation condition uncovers the role of functional groups in the feasibility and dynamical stability of microbial model ecosystems. _Under review_ bioRxiv 2024.01.09.574826; [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
 
-* **Pascual-García, A.**, Rivett, D., Jones, M. L., & Bell, T.(*) (2023). Replaying the tape of ecology to domesticate wild microbiomes. _Under review_ bioRxiv, 2023-07. [doi: 10.1101/2023.07.07.548163](https://doi.org/10.1101/2023.07.07.548163)
+* Lurgi, M., and **Pascual-García, A. (*)**  , (2024) Structural stability determines evolutionary stability in mutualistic model ecosystems _Under review_. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.04.611292v1.abstract)
 
-* Puente-Sánchez, F.(*),  **Pascual-García, A.**, Bastolla, U., Pedrós-Alió, C., Tamames, J. (2023) Cross-biome microbial networks reveal functional redundancy and suggest genome reduction through functional complementarity _Under review_ bioRxiv [doi: 10.1101/2022.09.11.507163](https://doi.org/10.1101/2022.09.11.507163)
+* Chen, L., Zhu, G.,**Pascual-García, A.**, Dini-Andreote, F., Zheng, J., Wang, X., Fan, J., Zhou, S., Jiang, Y.(*) (2024) Unraveling the roles of bacterial diversity dynamics and network stability in modulating maize yield,  _iMeta_ doi: 0.1002/imt2.260
+
+
+* Puente-Sánchez, F.(*),  **Pascual-García, A.**, Bastolla, U., Pedrós-Alió, C., Tamames, J. (2024) Cross-biome microbial networks reveal functional redundancy and suggest genome reduction through functional complementarity _Commun. Biol_ 7, 1046 [doi: 10.1038/s42003-024-06616-5](https://doi.org/10.1038/s42003-024-06616-5)
 
 * van Es, S.W., Muñoz-Gasca, A., Romero-Campero, F.J., González-Grandío, E., de los Reyes, P., Tarancón, C., van Dijk, A.D.J., van Esse, W., **Pascual-García, A.**, Angenent, G.C., Immink, R.G.H. and Cubas, P. (2023), A gene regulatory network critical for axillary bud dormancy directly controlled by Arabidopsis BRANCHED1. _New Phytol._  [doi: 10.1111/nph.19420](https://doi.org/10.1111/nph.19420)
 

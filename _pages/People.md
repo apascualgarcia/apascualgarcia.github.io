@@ -31,7 +31,7 @@ feature_row3:
     btn_class: "btn--inverse"
 feature_row4:
   - image_path: /assets/images/People/AntonioAraiz.jpg
-    title: "Antonio Araiz, MSc. Student"
+    title: "Antonio Araiz, Research Assistant"
     alt: "Placeholder Image Left Aligned"
     excerpt: "I am MSc student deeply interested in interdisciplinary and innovative solutions for biotechnological problems. I am currently studying the relationship between composition, function and stability of bacterial communities. My aim is to understand the role of microbial functional groups to potentially use stable bacterial consortia as biotechnological tools. Out of the lab, I love going to the theater, reading and playing sports."
 #    url: "/_pages/Publications/"
@@ -46,10 +46,10 @@ feature_row5:
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
 feature_row6:
-  - image_path: /assets/images/People/LauraPrieto.jpg
-    title: "Laura Prieto, BSc. Student"
+  - image_path: /assets/images/People/KarimAhmed.jpg
+    title: "Karim Ahmed, JAE intro scholarship"
     alt: "Placeholder Image Left Aligned"
-    excerpt: "Throughout my life, I've always had a deep love for science and understanding how things work. As I near the completion of my biotechnology degree, my passion for this field has only grown stronger. Currently, my primary focus is on developing more accurate methods to predict bacterial stress. I'm enthusiastic about the potential advancements that await in this area and i hope i can make a meaningful contribution to the field. Beyond my academic pursuits, I also harbor a keen interest in cinema, video games, and anime."
+    excerpt: "My goal in life is to develop myself in many different disciplines. Academically and professionally, I want to learn as much as I can in the fields of microbiology any tools I can use to make a more sustainable future. I am currently exploring computational tools. In my free time, I love to listen to music, go dancing, play sports and create some kind of art."
 ---
 
 {% include feature_row %}
@@ -68,12 +68,13 @@ feature_row6:
 
 ## Alumni
 
-* Léo Buchenel, MSc. student (ETH-Zürich). Now Senior Consultant at [Amstein-Walter](https://ch.linkedin.com/in/leo-buchenel).
-* Nikos Papanikolau, MSc. student (ETH-Zürich) Now PhD. student at [Universität Mainz](https://www.noneq.physik.uni-mainz.de/research/) in Germany.
+* Laura Prieto, BSc. student (Universidad Europea de Madrid)
+* Daria Lipsky, MSc. student (ETH-Zürich). Currently intern at [Smithsonian Tropical Research Institute](https://striresearch.si.edu/quantitative-forest-ecology/lab-member/daria-lipsky/).
+* Rahel Müller, MSc. student (ETH-Zürich).
 * Nicolas Oschner, MSc. student (ETH-Zürich). Now Ph.D student at ETH-Zürich
 * Florian Dolci, BSc. student (ETH-Zürich).
-* Daria Lipsky, MSc. student (ETH-Zürich).
-* Rahel Müller, MSc. student (ETH-Zürich).
+* Léo Buchenel, MSc. student (ETH-Zürich). Now Senior Consultant at [Amstein-Walter](https://ch.linkedin.com/in/leo-buchenel).
+* Nikos Papanikolau, MSc. student (ETH-Zürich) Now PhD. student at [Universität Mainz](https://www.noneq.physik.uni-mainz.de/research/) in Germany.
 * David Scott, MSc. student (Imperial). Now PhD. student at University of Leicester in the UK.
 * Katie Hidson, MSc. student (Imperial, **L’Oreal prize** to the best women's Thesis).
 * Javier Corz, MSc. student (Imperial). Now Principal Bioinformatician at [ConcertBio](https://www.concert.bio/\#Team-bio)
