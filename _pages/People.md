@@ -13,6 +13,7 @@ header:
   #excerpt: "It looks strange and it looks strange and it looks very strange; and then suddenly it doesn't look strange at all and you can't understand what made it look strange in the first place. Gertrude Stein."
 intro: 
   - excerpt: 'Please, keep an eye on our [join page](/_pages/Join) to see what opportunities are currently available.'
+###########
 feature_row2:
   - image_path: /assets/images/People/AdrianHirt.png
     title: "Adrian Hirt, MSc. Student"
@@ -21,6 +22,7 @@ feature_row2:
     url: " https://www.linkedin.com/in/amhirt/"
     btn_label: "LinkedIn"
     btn_class: "btn--inverse"
+###########
 feature_row3:
   - image_path: /assets/images/People/Alberto_SilwoodRed2.png
     title: "Alberto Pascual-García, PI"
@@ -29,14 +31,16 @@ feature_row3:
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+###########
 feature_row4:
   - image_path: /assets/images/People/AntonioAraiz.jpg
-    title: "Antonio Araiz, Research Assistant"
+    title: "Antonio Araiz, PhD. Student (Fundación Occident Fellow)"
     alt: "Placeholder Image Left Aligned"
     excerpt: "I am MSc student deeply interested in interdisciplinary and innovative solutions for biotechnological problems. I am currently studying the relationship between composition, function and stability of bacterial communities. My aim is to understand the role of microbial functional groups to potentially use stable bacterial consortia as biotechnological tools. Out of the lab, I love going to the theater, reading and playing sports."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
     btn_class: "btn--inverse"
+###########
 feature_row5:
   - image_path: /assets/images/People/DiegoAlcon.jpg
     title: "Diego Alcón, PhD. Student"
@@ -45,11 +49,42 @@ feature_row5:
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
+###########
 feature_row6:
-  - image_path: /assets/images/People/KarimAhmed.jpg
-    title: "Karim Ahmed, JAE intro scholarship"
+  - image_path: /assets/images/People/LauraBarreales.jpg
+    title: "Laura Barreales, BSc. Student"
     alt: "Placeholder Image Left Aligned"
-    excerpt: "My goal in life is to develop myself in many different disciplines. Academically and professionally, I want to learn as much as I can in the fields of microbiology any tools I can use to make a more sustainable future. I am currently exploring computational tools. In my free time, I love to listen to music, go dancing, play sports and create some kind of art."
+    excerpt: "My motivation has always been learning while I can. That's what drove me to study Physics, and then I wanted to learn how biology works in a physical way. That's what led me to do my master's in Biophysics. Currently, I'm interested in microbial ecology because it's a field where I think I can apply the knowledge I acquired in my career, but who knows what tomorrow holds? On a personal level, I'm interested in a lot of things like playing video games, role-playing and tabletop games, as well as playing the violin, and learning other instruments, and so on."
+#    url: "/_pages/Publications/"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
+###########
+feature_row7:
+  - image_path: /assets/images/People/AdrianJimenez.jpg
+    title: "Adrián Jiménez, PhD. Student (FPI Fellow)"
+    alt: "Placeholder Image Right Aligned"
+    excerpt: "I am interested in the potential of biotechnology to address critical sustainability challenges. I also believe that grasping its full potential requires using different frameworks and applying skills from diverse backgrounds to navigate the complexity and vast datasets inherent in such systems. That's why I decided to join the Integrative Biology Lab at CNB. On a personal level, I'm interested in philosophy, traveling, and sports."
+#    url: "/_pages/Publications/"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
+###########
+#  feature_row5:
+#    - image_path: /assets/images/People/TamaraTellez.jpg
+#      title: "Tamara Téllez, MSc. Student (JAE Fellow)"
+#      alt: "Placeholder Image Left Aligned"
+#      excerpt: ""
+#    url: "/_pages/Publications/"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
+###########
+feature_row8:
+  - image_path: /assets/images/People/PabloValdivieso.jpg
+    title: "Pablo Valdivieso, MSc. Student (JAE Fellow)"
+    alt: "Placeholder Image Left Aligned"
+    excerpt: "With a background in Biomedical Sciences, I am inspired by the current capacity to explore the vast functional and structural diversity that biological systems can offer us. In my research at CNB I am intersted in the role of bacterial mutualism to design stable consortia, as a powerful tool for addressing complex metabolic problems by studying the functional capabilities of the group instead of individual species. Additionally, during my stay, I aim to strengthen my skills in computational modeling and programming for my future career. Outside the lab, I love dancing, deep conversations, and spending time with the people I love."
+#    url: "/_pages/Publications/"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
@@ -66,8 +101,15 @@ feature_row6:
 
 {% include feature_row id="feature_row6" type="right" %}
 
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row8" type="right" %}
+
+
+
 ## Alumni
 
+* Karim Ahmed, JAE intro Fellow and MSc. student (CSIC). Currently Ph.D. student at [Ángel Goñi lab at CNB](https://biocomputationlab.com/).
 * Laura Prieto, BSc. student (Universidad Europea de Madrid)
 * Daria Lipsky, MSc. student (ETH-Zürich). Currently intern at [Smithsonian Tropical Research Institute](https://striresearch.si.edu/quantitative-forest-ecology/lab-member/daria-lipsky/).
 * Rahel Müller, MSc. student (ETH-Zürich).
