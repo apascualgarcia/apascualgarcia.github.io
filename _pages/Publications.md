@@ -17,13 +17,13 @@ permalink: /_pages/Publications/
 
 
 * Lurgi, M., and **Pascual-García, A. (*)**, (2025) Structural stability determines evolutionary stability in mutualistic model ecosystems. _Royal Society Open Science_. 12.8
-(2025): 250123. [doi: 10.1098/rsos.250123}(https://doi.org/10.1098/rsos.250123)
+(2025): 250123. [doi: 10.1098/rsos.250123](https://doi.org/10.1098/rsos.250123)
 
 * Ochsner, N., San-Román, M., Bonhoeffer, S., **Pascual-García, A. (*)**, (2025) misosoup: A metabolic modeling tool for identifying minimal microbial communities reveals pervasive
-cross-feeding-driven niche expansion. _Under review_. bioRxiv [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
+cross-feeding-driven niche expansion. _bioRxiv_ [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
 
 
-* Buchenel, L., Bonhoeffer, S., **Pascual-García, A. (*)** (2024) A network optimisation condition uncovers the role of functional groups in the feasibility and dynamical stability of microbial model ecosystems. _Under review_ bioRxiv [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
+* Buchenel, L., Bonhoeffer, S., **Pascual-García, A. (*)** (2024) A network optimisation condition uncovers the role of functional groups in the feasibility and dynamical stability of microbial model ecosystems. _bioRxiv_ [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
 
 * Chen, L., Zhu, G.,**Pascual-García, A.**, Dini-Andreote, F., Zheng, J., Wang, X., Fan, J., Zhou, S., Jiang, Y.(*) (2024) Unraveling the roles of bacterial diversity dynamics and network stability in modulating maize yield,  _iMeta_ [doi: 10.1002/imt2.260](https://doi.org/10.1002/imt2.260)
 
