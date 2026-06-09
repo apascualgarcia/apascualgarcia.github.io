@@ -112,6 +112,7 @@ feature_row9:
 
 {% include feature_row id="feature_row6" type="right" %}
 
+{% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row8" type="right" %}
 
@@ -119,6 +120,7 @@ feature_row9:
 
 ## Alumni
 
+* Tamara Téllez, JAE intro Fellow.
 * Karim Ahmed, JAE intro Fellow and MSc. student (CSIC). Currently Ph.D. student at [Ángel Goñi lab at CNB](https://biocomputationlab.com/).
 * Laura Prieto, BSc. student (Universidad Europea de Madrid)
 * Daria Lipsky, MSc. student (ETH-Zürich). Currently intern at [Smithsonian Tropical Research Institute](https://striresearch.si.edu/quantitative-forest-ecology/lab-member/daria-lipsky/).
