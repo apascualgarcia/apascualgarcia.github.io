@@ -87,9 +87,9 @@ feature_row8:
 #    btn_class: "btn--inverse"
 ###########
 feature_row9:
-  - image_path: /assets/images/People/XoseTome.jpg
-    title: "Xosé M. Tomé, Research Assistant"
-    alt: "Placeholder Image Left Aligned"
+  - image_path: /assets/images/People/XoseTome.png
+    title: "Xosé Tomé, Research Assistant"
+    alt: "Placeholder Image Right Aligned"
     excerpt: "After nursing at the University of Almería (UAL), I moved into biochemistry at the University of Murcia (UMU) and then conducted two master's degrees: space sciences at the International Space University (ISU), with research at the Centro de Astrobiología (CAB) on bacteria as a triage tool for space missions; and bioinformatics at the University of La Rioja (UNIR), with work at IdiSBA on cystic fibrosis patient data. These contrasting angles — space and disease — drew me to microbial ecology and this lab, where I use bioinformatics and computational modeling to study what keeps microbial communities stable. Outside the lab, I love running, reading, and having fun with friends.."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
