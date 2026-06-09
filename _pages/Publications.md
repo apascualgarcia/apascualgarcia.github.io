@@ -10,7 +10,7 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
-* **Pascual-García, A.**, Rivett, D., Jones, M. L., & Bell, T.(*) (2025). Replicating community dynamics reveals how initial composition shapes the functional outcomes of bacterial communities. _Nature Communications_ 16(1), 3002. [doi: 10.1101/2023.07.07.548163](https://doi.org/10.1101/2023.07.07.548163)
+* **Pascual-García, A.**, Rivett, D., Jones, M. L., & Bell, T.(*) (2025). Replicating community dynamics reveals how initial composition shapes the functional outcomes of bacterial communities. _Nature Communications_ 16(1), 3002. [doi: 10.1101/2023.07.07.548163](https://www.nature.com/articles/s41467-025-57591-2)
   * Featured in the Spanish Public National Radio, ([interview](https://www.rtve.es/play/audios/marca-espana/marca-espana-domesticar-mundo-microbiano-para-uso-biotecnologico/16667756/) and in the [news](https://www.rtve.es/play/audios/el-laboratorio-de-jal/domesticar-microbios-para-nuestro-beneficio/16781425/)).
   * Featured in the Science websites [_Madrid+_](https://www.madrimasd.org/magazine/domesticando-bacterias?lan=es) and [CSIC news](https://www.csic.es/es/actualidad-del-csic/la-domesticacion-de-comunidades-bacterianas-naturales-podria-impulsar-sus-aplicaciones-biotecnologicas).
   * Featured in [specialized blogs](https://www.ecehh.org/news/frozen-microbes-health/) and [outlets](https://www.tecnopunta.es/noticia/10799/actualidad/investigadores-logran-domesticar-comunidades-bacterianas-para-potenciar-la-biotecnologia.html).

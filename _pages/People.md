@@ -54,7 +54,7 @@ feature_row6:
   - image_path: /assets/images/People/LauraBarreales.jpg
     title: "Laura Barreales, BSc. Student"
     alt: "Placeholder Image Left Aligned"
-    excerpt: "My motivation has always been learning while I can. That's what drove me to study Physics, and then I wanted to learn how biology works in a physical way. That's what led me to do my master's in Biophysics. Currently, I'm interested in microbial ecology because it's a field where I think I can apply the knowledge I acquired in my career, but who knows what tomorrow holds? On a personal level, I'm interested in a lot of things like playing video games, role-playing and tabletop games, as well as playing the violin, and learning other instruments, and so on."
+    excerpt: "Hi, I’m Laura a Biotechnology student. I’ve always been interested in the biological aspects of life and wanted to use that interest to discover and find solutions to societal problems. During the career I’ve been drawn to microbiology, specially bacteria and their behavior.  Outside university I enjoy trying new hobbies. Right now I love baking in my free time and I’m attempting to become a drummer.."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -85,6 +85,15 @@ feature_row8:
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
+###########
+feature_row9:
+  - image_path: /assets/images/People/XoseTome.jpg
+    title: "Xosé M. Tomé, Research Assistant"
+    alt: "Placeholder Image Left Aligned"
+    excerpt: "After nursing at the University of Almería (UAL), I moved into biochemistry at the University of Murcia (UMU) and then conducted two master's degrees: space sciences at the International Space University (ISU), with research at the Centro de Astrobiología (CAB) on bacteria as a triage tool for space missions; and bioinformatics at the University of La Rioja (UNIR), with work at IdiSBA on cystic fibrosis patient data. These contrasting angles — space and disease — drew me to microbial ecology and this lab, where I use bioinformatics and computational modeling to study what keeps microbial communities stable. Outside the lab, I love running, reading, and having fun with friends.."
+#    url: "/_pages/Publications/"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
@@ -92,6 +101,8 @@ feature_row8:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row2" type="right"%}
+
+{% include feature_row id="feature_row7" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
@@ -101,7 +112,6 @@ feature_row8:
 
 {% include feature_row id="feature_row6" type="right" %}
 
-{% include feature_row id="feature_row7" type="left" %}
 
 {% include feature_row id="feature_row8" type="right" %}
 
