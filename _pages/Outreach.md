@@ -19,7 +19,7 @@ intro:
 * APG is a working member of [OpenScholar](http://www.openscholar.org.uk/).
 > OpenScholar is a non-for-profit organization in which we advocate for a change in the way in  which science is disseminated. Among several projects, the organization governs an independent peer-review platform called [Self-Journal(s) of Science](http://www.sjscience.org/), where editors, authors and referees develop science in a completely  transparent way. 
 
-* Ecobuilder Game (play [here](http://ecobuildergame.org/)).
+* Ecobuilder Game (play [here](https://github.com/jxz12/EcoBuilder)).
 > An ambitious project leaded by [Samraat Pawar](https://mhasoba.pythonanywhere.com/pawarlab) to teach species ecosystem assembly.
 
 * Collaborators of [Native Scientist](https://www.nativescientist.com/).
