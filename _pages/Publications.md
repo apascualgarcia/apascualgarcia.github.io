@@ -10,6 +10,12 @@ permalink: /_pages/Publications/
 ## Articles
 > (*) stands for Corresponding Author
 
+
+* **Ochsner, N.**, San-Román, M.(*), **Jiménez-Fernández A**, Bonhoeffer, S., **Pascual-García, A.(*)**, (2026) misosoup: a metabolic modeling tool for identifying minimal microbial communities, facilitates the exploration of microbial ecology and biotechnological applications. _mSystems_ [doi: 10.1128/msystems.00688-26](https://doi.org/10.1128/msystems.00688-26)
+
+* Altxu, R. S., Shankar, G., Comas-Pujol, A., Francesch-Vazquez, A., **Pascual-Garcia, A.**, Krell, T., & Ramoneda, J.(*) (2026). Environmental sensing capacity predicts bacterial ecological strategies and environmental preferences. _bioRxiv_, 2026-09. [doi:  10.64898/2026.09.01.748587 ](https://doi.org/10.64898/2026.09.01.748587)
+
+
 * **Pascual-García, A.**, Rivett, D., Jones, M. L., & Bell, T.(*) (2025). Replicating community dynamics reveals how initial composition shapes the functional outcomes of bacterial communities. _Nature Communications_ 16(1), 3002. [doi: 10.1101/2023.07.07.548163](https://www.nature.com/articles/s41467-025-57591-2)
   * Featured in the Spanish Public National Radio, ([interview](https://www.rtve.es/play/audios/marca-espana/marca-espana-domesticar-mundo-microbiano-para-uso-biotecnologico/16667756/) and in the [news](https://www.rtve.es/play/audios/el-laboratorio-de-jal/domesticar-microbios-para-nuestro-beneficio/16781425/)).
   * Featured in the Science websites [_Madrid+_](https://www.madrimasd.org/magazine/domesticando-bacterias?lan=es) and [CSIC news](https://www.csic.es/es/actualidad-del-csic/la-domesticacion-de-comunidades-bacterianas-naturales-podria-impulsar-sus-aplicaciones-biotecnologicas).
@@ -19,11 +25,9 @@ permalink: /_pages/Publications/
 * Lurgi, M., and **Pascual-García, A. (*)**, (2025) Structural stability determines evolutionary stability in mutualistic model ecosystems. _Royal Society Open Science_. 12.8
 (2025): 250123. [doi: 10.1098/rsos.250123](https://doi.org/10.1098/rsos.250123)
 
-* Ochsner, N., San-Román, M., Bonhoeffer, S., **Pascual-García, A. (*)**, (2025) misosoup: A metabolic modeling tool for identifying minimal microbial communities reveals pervasive
-cross-feeding-driven niche expansion. _bioRxiv_ [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
 
 
-* Buchenel, L., Bonhoeffer, S., **Pascual-García, A. (*)** (2024) A network optimisation condition uncovers the role of functional groups in the feasibility and dynamical stability of microbial model ecosystems. _bioRxiv_ [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
+* **Buchenel, L.**, Bonhoeffer, S., **Pascual-García, A. (*)** (2024) A network optimisation condition uncovers the role of functional groups in the feasibility and dynamical stability of microbial model ecosystems. _bioRxiv_ [doi: 10.1101/2024.01.09.574826](https://doi.org/10.1101/2024.01.09.574826)
 
 * Chen, L., Zhu, G.,**Pascual-García, A.**, Dini-Andreote, F., Zheng, J., Wang, X., Fan, J., Zhou, S., Jiang, Y.(*) (2024) Unraveling the roles of bacterial diversity dynamics and network stability in modulating maize yield,  _iMeta_ [doi: 10.1002/imt2.260](https://doi.org/10.1002/imt2.260)
 
